@@ -1,0 +1,6 @@
+{
+  "name": "ভিডিও ওয়ার্ল্ড",
+  "description": "ভিডিও ওয়ার্ল্ড - একটি প্রিমিয়াম ভিডিও স্ট্রিমিং এবং চটি ব্লগিং প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
